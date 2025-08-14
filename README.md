@@ -32,8 +32,10 @@ npm start
 - **Hosting**: Render
 
 ## 📱 Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/00e2188c-d968-4faf-90df-e853792faee8" alt="Desktop Preview" width="600" />
+</p>
 
-![Chat Interface](image.png)
 
 ## 🔧 API
 
